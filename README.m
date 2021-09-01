@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**PSMaxZaxster/PsMaxZaxster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PSMaxZaxster/PsMaxZaxster**
 
 
 - 🔭 We are working on doing new NFTs from our paintings
